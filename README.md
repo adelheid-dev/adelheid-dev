@@ -18,13 +18,14 @@
 ### 🛠️ Tech Stack & Ferramentas
 
 <p align="left">
-  <!-- Linguagens de Programação -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  
-  <!-- Áreas de Interesse / Conceitos -->
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,matlab,aws,mysql,netbeans,git,github,vscode,idea" />
+</p>
+
+---
+
+### 🧠 Áreas de Interesse & Conceitos
+
+<p align="left">
   <img src="https://img.shields.io/badge/Matemática-333333?style=for-the-badge&logo=mathoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Neurociência-660099?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
@@ -42,9 +43,8 @@
 
 ### 🔗 Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/adelaide-sousa-reis-460920311" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adelaide-sousa-reis-460920311" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
