@@ -15,12 +15,12 @@
 
 ---
 
+
 ### 🛠️ Tech Stack & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,matlab,aws,mysql,netbeans,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,matlab,aws,mysql,eclipse,netbeans,vscode,git,github,idea" />
 </p>
-
 ---
 
 ### 🧠 Áreas de Interesse & Conceitos
