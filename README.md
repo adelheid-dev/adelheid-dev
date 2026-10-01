@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adelheid-dev/adelheid-dev/main/sua-imagem.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adelaide Reis</h1>
 <h3 align="center">Estudante de Engenharia de Software | UCB 🎓</h3>
 
